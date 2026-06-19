@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Emiya Varghese 👋
+🎓 B.Tech Student in Artificial Intekkigence & Data Science
+💻 Aspiring AI Engineer | Python Developer
+🤖 Exploring Machine Learning, Data Science & Software Development
+
+## Tech Stack 
+Python • C • Machine Learning
+
+## Current Focus
+Building projects, Strengthening DSA, and growing as an AI engineer
 
 <!--
 **emiyavarghese/emiyavarghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
